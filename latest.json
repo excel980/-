@@ -3,10 +3,14 @@
   "versionCode": 110,
   "releaseDate": "2026-11-06",
   "appName": "谷歌多用户管理器",
+  "devLog": false,
+  "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
+  "supportWechat": "Excel580com",
   "changelog": [
     "1. 修复商/媒菜单点击未填入网址的问题",
     "2. 输入框新增一键清空按钮",
-    "3. 新增开发日志开关"
+    "3. 新增开发日志开关",
+    "4. 关于软件新增下拉菜单（使用帮助 + 检查更新）"
   ],
   "downloadUrl": "https://pan.baidu.com/s/19U_aET2jM0K8L4mhZKgGmA",
   "minVersion": "1.0.0"
