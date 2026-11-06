@@ -3,9 +3,9 @@
   "versionCode": 110,
   "releaseDate": "2026-11-06",
   "appName": "谷歌多用户管理器",
-  "devLog": false,
+  "devLog": true,
   "tutorialUrl": "https://www.kdocs.cn/l/cs4AuCNtoVKM",
-  "supportWechat": "Excel580com",
+  "supportWechat": "yingdao",
   "changelog": [
     "1. 修复商/媒菜单点击未填入网址的问题",
     "2. 输入框新增一键清空按钮",
